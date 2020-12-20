@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+		
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Malatang Zhangliang | 张亮麻辣烫 | Best Malatang in Town</title>
+	<meta name="description" content="We are the best Malatang in Canberra CBD! Founded in 2008, Zhangliang Malatang is a remarkable and health concept of malatang brand. It has changed the impression of Malatang and closer to the consumption demands of young people." />
+	<meta name="robots" content="index, nofollow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://malatangcbr.com.au/" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://malatangcbr.com.au/#organization","name":"Malatang Zhangliang","url":"https://malatangcbr.com.au/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://malatangcbr.com.au/#logo","inLanguage":"en-US","url":"https://malatangcbr.com.au/wp-content/uploads/2020/12/logo.png","width":331,"height":48,"caption":"Malatang Zhangliang"},"image":{"@id":"https://malatangcbr.com.au/#logo"}},{"@type":"WebSite","@id":"https://malatangcbr.com.au/#website","url":"https://malatangcbr.com.au/","name":"Malatang Zhangliang","description":"Best Malatang in town","publisher":{"@id":"https://malatangcbr.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://malatangcbr.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://malatangcbr.com.au/#primaryimage","inLanguage":"en-US","url":"https://malatangcbr.com.au/wp-content/uploads/2020/12/logo.png","width":331,"height":48,"caption":"malatang-zhangliang-logo"},{"@type":"WebPage","@id":"https://malatangcbr.com.au/#webpage","url":"https://malatangcbr.com.au/","name":"Malatang Zhangliang | \u5f20\u4eae\u9ebb\u8fa3\u70eb | Best Malatang in Town","isPartOf":{"@id":"https://malatangcbr.com.au/#website"},"about":{"@id":"https://malatangcbr.com.au/#organization"},"primaryImageOfPage":{"@id":"https://malatangcbr.com.au/#primaryimage"},"datePublished":"2020-12-18T06:33:55+00:00","dateModified":"2020-12-20T09:34:18+00:00","description":"We are the best Malatang in Canberra CBD! Founded in 2008, Zhangliang Malatang is a remarkable and health concept of malatang brand. It has changed the impression of Malatang and closer to the consumption demands of young people.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://malatangcbr.com.au/"]}]}]}</script>
+	<meta name="msvalidate.01" content="ad2c8d19688145e4947722aecd09d5b4" />
+	<meta name="google-site-verification" content="g9fqzyWODl3ye9Cl6rGuhfzhUAsEZAi0r8E0Nqbr1E8" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Malatang Zhangliang &raquo; Feed" href="http://malatangcbr.com.au/" />
+<link rel="alternate" type="application/rss+xml" title="Malatang Zhangliang &raquo; Comments Feed" href="https://malatangcbr.com.au/?feed=comments-rss2" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://malatangcbr.com.au/wp-includes/css/dist/block-library/style.min.css?ver=5.6' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://malatangcbr.com.au/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' media='all' />
+<link rel='stylesheet' id='twenty-twenty-one-style-css'  href='https://malatangcbr.com.au/wp-content/themes/twentytwentyone/style.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css'  href='https://malatangcbr.com.au/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.0' media='print' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.14' media='all' />
+<link rel='stylesheet' id='elementor-post-20-css'  href='https://malatangcbr.com.au/wp-content/uploads/elementor/css/post-20.css?ver=1608294996' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://malatangcbr.com.au/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.8' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://malatangcbr.com.au/wp-content/uploads/elementor/css/global.css?ver=1608294996' media='all' />
+<link rel='stylesheet' id='elementor-post-21-css'  href='https://malatangcbr.com.au/wp-content/uploads/elementor/css/post-21.css?ver=1608456859' media='all' />
+<link rel='stylesheet' id='elementor-post-218-css'  href='https://malatangcbr.com.au/wp-content/uploads/elementor/css/post-218.css?ver=1608377152' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Electrolize%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CTitillium+Web%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFira+Mono%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6' media='all' />
+<link rel="https://api.w.org/" href="https://malatangcbr.com.au/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://malatangcbr.com.au/index.php?rest_route=/wp/v2/pages/21" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://malatangcbr.com.au/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.6" />
+<link rel='shortlink' href='https://malatangcbr.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="https://malatangcbr.com.au/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fmalatangzhangliang.local%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://malatangcbr.com.au/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fmalatangzhangliang.local%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://malatangcbr.com.au/wp-content/uploads/2020/12/cropped-logo.png" sizes="32x32" />
+<link rel="icon" href="https://malatangcbr.com.au/wp-content/uploads/2020/12/cropped-logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://malatangcbr.com.au/wp-content/uploads/2020/12/cropped-logo.png" />
+<meta name="msapplication-TileImage" content="https://malatangcbr.com.au/wp-content/uploads/2020/12/cropped-logo.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template-default page page-id-21 wp-custom-logo wp-embed-responsive is-light-theme no-js singular has-main-navigation elementor-default elementor-template-canvas elementor-kit-20 elementor-page elementor-page-21">
+			<div data-elementor-type="wp-page" data-elementor-id="21" class="elementor elementor-21" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-b84e527 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b84e527" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c100dc5" data-id="c100dc5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e678f63 elementor-widget elementor-widget-image" data-id="e678f63" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="331" height="48" src="https://malatangcbr.com.au/wp-content/uploads/2020/12/logo.png" class="attachment-large size-large" alt="malatang-zhangliang-logo" loading="lazy" srcset="https://malatangcbr.com.au/wp-content/uploads/2020/12/logo.png 331w, https://malatangcbr.com.au/wp-content/uploads/2020/12/logo-300x44.png 300w" sizes="(max-width: 331px) 100vw, 331px" style="width:100%;height:14.5%;max-width:331px;" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5634b1c elementor-widget elementor-widget-heading" data-id="5634b1c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Malatang Zhangliang</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6fc385c elementor-section-content-middle elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6fc385c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0e6eb7e" data-id="0e6eb7e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d3b96f9 elementor-align-center elementor-widget elementor-widget-button" data-id="d3b96f9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://malatangcbr.square.site/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">takeaway</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-48d0c9a" data-id="48d0c9a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e77ff0e elementor-align-center elementor-widget elementor-widget-button" data-id="e77ff0e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.doordash.com/store/malatang-canberra-1180521/en-AU/?utm_campaign=gpa" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">delivery</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2cda5a9" data-id="2cda5a9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-acf7254 elementor-align-center elementor-widget elementor-widget-button" data-id="acf7254" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">giftcards</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-31eca82" data-id="31eca82" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-309c0c1 elementor-section-content-middle elementor-hidden-desktop elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="309c0c1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3ac328f" data-id="3ac328f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c4a7d19 elementor-align-center elementor-widget elementor-widget-button" data-id="c4a7d19" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://malatangcbr.square.site/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">takeaway</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e546eee elementor-align-center elementor-widget elementor-widget-button" data-id="e546eee" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.doordash.com/store/malatang-canberra-1180521/en-AU/?utm_campaign=gpa" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">delivery</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d24595e elementor-align-center elementor-widget elementor-widget-button" data-id="d24595e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-size-sm elementor-animation-grow-rotate" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">giftcards</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-04e8c62" data-id="04e8c62" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7e4ac53 elementor-widget elementor-widget-image" data-id="7e4ac53" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="710" height="503" src="https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03.png" class="attachment-large size-large" alt="malatang-zhangliang-image" loading="lazy" srcset="https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03.png 710w, https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03-300x213.png 300w" sizes="(max-width: 710px) 100vw, 710px" style="width:100%;height:70.85%;max-width:710px;" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a00382 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a00382" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9296fb5" data-id="9296fb5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-520bb40 elementor-widget elementor-widget-text-editor" data-id="520bb40" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>Malatang Zhangliang | 张亮麻辣烫 | The Best Malatang in Town</h2></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d75790b elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d75790b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1001655" data-id="1001655" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6c77259 elementor-widget elementor-widget-text-editor" data-id="6c77259" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><a href="mailto:malatangcbr@google.com">malatangcbr@gmail.com</a> | <a href="https://goo.gl/maps/xM1c13TZprkRucmm7">40 Marcus Clarke St, Canberra ACT 2601</a></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c0e9d98 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0e9d98" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29f7bdd" data-id="29f7bdd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-602b251 elementor-widget elementor-widget-text-editor" data-id="602b251" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>Malatang Zhangliang | 张亮麻辣烫</h2>
+<h3>We Are the Best Malatang in Town</h3>
+<a href="mailto:malatangcbr@gmail.com">malatangcbr@gmail.com</a><br>
+<a href="https://goo.gl/maps/xM1c13TZprkRucmm7">40 Marcus Clarke St, Canberra ACT 2601</a></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		<script>document.body.classList.remove("no-js");</script>	<script>
+	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+		document.body.classList.add( 'is-IE' );
+	}
+	</script>
+			<div data-elementor-type="popup" data-elementor-id="218" class="elementor elementor-218 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;zoomIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}}">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-2817c78c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2817c78c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c742a46" data-id="3c742a46" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-266dc968 elementor-invisible elementor-widget elementor-widget-image" data-id="266dc968" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="710" height="503" src="https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03.png" class="attachment-full size-full" alt="malatang-zhangliang-image" loading="lazy" srcset="https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03.png 710w, https://malatangcbr.com.au/wp-content/uploads/2020/12/j1s_03-300x213.png 300w" sizes="(max-width: 710px) 100vw, 710px" style="width:100%;height:70.85%;max-width:710px;" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1cf0430e elementor-widget elementor-widget-heading" data-id="1cf0430e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Coming soon...</h3>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		<script src='https://malatangcbr.com.au/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.0' id='twenty-twenty-one-ie11-polyfills-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.0' id='twenty-twenty-one-primary-navigation-script-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.0' id='twenty-twenty-one-responsive-embeds-script-js'></script>
+<script src='https://malatangcbr.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='https://malatangcbr.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.8' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/PLACEHOLDER.wpsho\/wp-admin\/admin-ajax.php","nonce":"21945c5d72","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/PLACEHOLDER.wpsho\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.8' id='elementor-pro-frontend-js'></script>
+<script src='https://malatangcbr.com.au/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.14' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.14","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"http:\/\/PLACEHOLDER.wpsho\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"gradient","global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":21,"title":"Malatang%20Zhangliang%20%7C%20%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%20%7C%20Best%20Malatang%20in%20Town","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://malatangcbr.com.au/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.14' id='elementor-frontend-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+	</script>
+		</body>
+</html>
